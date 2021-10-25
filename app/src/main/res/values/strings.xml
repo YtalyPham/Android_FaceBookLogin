@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">CloudFacebookLogin</string>
+    <string name="facebook_app_id">1288888584960732</string>
+    <string name="fb_login_protocol_scheme">fb1288888584960732</string>
+
+
 </resources>
